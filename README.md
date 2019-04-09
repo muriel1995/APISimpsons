@@ -1,3 +1,23 @@
+
+Challenge React 5 Fetch - Ou comment consommer une AOI avec React ?
+
+Affichage d'une citation des Simpsons
+Tu vas réaliser une application permettant de récupérer aléatoirement une citation tiré des Simpsons
+
+Utilise l'API The Simpsons Quote
+
+L'application devra comprendre :
+    Un bouton permettant de récupérer une citation
+    Une zone où est affiché le nom du personnage, la photo ainsi que la citation
+    Commit et push le tout sur GitHub à la fin, et poste le lien du dépôt.
+
+Critères de validation :
+    L'application affiche une citation
+    Le nom, la photo et la citation du personnage est affiché
+    Présence d'un bouton permettant de changer cette citation
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
